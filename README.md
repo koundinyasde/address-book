@@ -7,6 +7,7 @@
 1. Git [Installation guidelines](https://support.atlassian.com/bitbucket-cloud/docs/install-and-set-up-git/)
 2. Node: any 12.x version starting with v12.0.0 or greater [Installation package](https://nodejs.org/dist/v12.22.3/)
 3. MongoDb [Installation package](https://www.mongodb.com/docs/manual/installation/)
+    - Refer this to start the mongodb server
 4. A clone of the project on your local machine
 
 ### Installation
